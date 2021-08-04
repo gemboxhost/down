@@ -1,6 +1,4 @@
-# bgtoolset
-
-This is a dump of excellent Ps3xploit Team [bgtoolset](https://www.ps3xploit.net/bgtoolset/). **I'm not an author of any of these tools**, all credits go to
+This is a dump of excellent Ps3xploit Team (https://www.ps3xploit.net). **I'm not an author of any of these tools**, all credits go to
 Ps3xploit team. If you find these tools useful, please consider a donation via Paypal at team@ps3xploit.net or in BTC at either of the addresses below:
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Legacy P2PKH](assets/images/qr-legacy-P2PKH.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Segwit BECH32](assets/images/qr-native-segwit-BECH32.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![PayNyms](assets/images/qr-PayNyms.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -13,9 +11,9 @@ Ps3xploit team. If you find these tools useful, please consider a donation via P
 
 ## IMPORTANT INFO, please read carefuly.
 
-- **This is NOT official repository of bgtoolset**. It's a dump which I made for myself, to be able jailbreak my console if for whatever reason [Ps3Xploit](https://www.ps3xploit.com/)
+- **This is NOT official repository of bg*tool*set**. It's a dump which I made for myself, to be able jailbreak my console if for whatever reason [Ps3Xploit](https://www.ps3xploit.com/)
 website goes down.
-- **Use this mirror as a last resort** - you should always go to [bgtoolset page](https://www.ps3xploit.net/bgtoolset/) first, and use tools provided there.
+- **Use this mirror as a last resort** - you should always go to (https://www.ps3xploit.net) first, and use tools provided there.
   Not only they are more reliable, and written by people who actually know what they're doing - they're also always up to date.
 - **I'm not responsible for any damage you may do to your console**. This stuff if used inproperly, can brick your PS3.
 - I tested this dump on my `CECHJ03 PAL` PS3 FAT console, with `4.87` firmware, and it worked without any issues. However I do not guarantee that it will work for you.
